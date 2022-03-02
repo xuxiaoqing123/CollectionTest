@@ -1,2 +1,2 @@
-# CollectionTest
-集合功能验证
+# ExceptionTest
+java异常
